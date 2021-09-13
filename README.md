@@ -1,2 +1,3 @@
 # hello-world
-just example showing others
+<hr/>just example showing others<br/>
+<b>educational purpose only</b>
